@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["TestExpoNativeModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.testexponative.TestExpoNativeModule"]
+  }
+}
